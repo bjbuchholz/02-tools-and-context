@@ -1,0 +1,19 @@
+{
+  "name": "lab-brandon",
+  "version": "1.0.0",
+  "description": "Lab 02",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^22.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
